@@ -43,12 +43,6 @@ This was the core of the project, combined into one main notebook:
     6.  **Analyzed with SQL:** Ran SQL queries to aggregate data and answer key business questions (e.g., "Top 5 Education Levels", "Median Salary by Age").
     7.  **Visualized Results:** Plotted the results of the SQL queries directly using Matplotlib and Seaborn.
 
-### 3. Final Dashboard & Presentation
-The final insights were presented in two ways:
-* **File `6-Dashboard-with-Cognos...pdf`:** Screenshots of the final interactive dashboard built using **IBM Cognos Analytics**.
-* **File `7-Findings-Report-Presentation.pdf`:** The final business presentation summarizing the project's key findings.
-
----
 
 ## 📈 Key Findings (from Dashboard)
 
